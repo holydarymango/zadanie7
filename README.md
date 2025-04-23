@@ -12,7 +12,7 @@
 
 1. Окно входа:
    
-   ![](https://github.com/Durax66/ItogOOP-Cosmo7---/blob/master/screenshots/screen%201.png)
+   ![](https://github.com/holydarymango/zadanie7/blob/master/scrin/prak7.jpg)
 
 ## Установка
 
